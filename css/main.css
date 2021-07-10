@@ -1,0 +1,32 @@
+section {
+  width: 500px;
+  margin: 80px auto 0 auto;
+  font-size: 16px;
+  background: #fff;
+  border-radius: 6px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+section li {
+  padding: 0 0 10px 0;
+  color: #4a666b;
+}
+
+.btn {
+  text-align: center;
+  padding: 15px 0 0 0;
+}
+
+section .btn a {
+  display: inline-block;
+  line-height: 20px;
+  width: 50%;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+section .btn a:hover {
+  background: #edd5f5;
+  color: #fff;
+}
